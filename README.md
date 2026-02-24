@@ -53,7 +53,7 @@
 
 ### Решение
 
-Результаты сканирования в файлах: FIN.pcapng, SYN.pcapng, UDP.pcapng, Xmas.pcapng
+Результаты сканирования в [файлах](https://github.com/xkostix/sec_attacks): FIN.pcapng, SYN.pcapng, UDP.pcapng, Xmas.pcapng
 
 SYN-сканирование c ключем -sS, отправляет TCP-пакеты с флагом SYN на целевые порты. Если порт открыт, сервер отвечает пакетом SYN-ACK. Если закрыт — отправляет RST.
 
